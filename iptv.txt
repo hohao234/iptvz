@@ -1,9 +1,8 @@
-2026/06/29 08:07更新,#genre#
+2026/06/29 09:06更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 央视频道,#genre#
 
 卫视频道,#genre#
-山西卫视,http://106.115.24.152:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教科频道,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -84,4 +83,3 @@
 陕西频道,#genre#
 香港频道,#genre#
 其他频道,#genre#
-河北农民,http://106.115.24.152:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
